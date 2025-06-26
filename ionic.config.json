@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-cordova-noarc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
